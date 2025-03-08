@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "FSW Donalds",
-  description: "Totem Restaurante",
+  title: "Totem Restaurante",
+  description: "Projeto utilizando: TypeScript, React, Tailwind, PrismaORM, Neon"
 };
 
 export default function RootLayout({
